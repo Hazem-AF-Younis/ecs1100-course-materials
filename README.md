@@ -1,34 +1,35 @@
 # ECS 1100 Course Materials
 
-Slides, templates and activities I built for **ECS 1100: Introduction to Engineering and Computer Science** at The University of Texas at Dallas. ECS 1100 is the required first-year course for all ten Jonsson School majors. I have taught it as instructor of record every fall since 2024.
+Slides, templates and activities from **ECS 1100: Introduction to Engineering and Computer Science** at The University of Texas at Dallas. ECS 1100 is the required first-year course for all ten Jonsson School majors. I have taught it as instructor of record every fall since 2024.
 
-Everything here comes from the Fall 2026 redesign of the course. In that version, each week is either a career-readiness skill or an industry sector, and students tie the two together with weekly concept maps.
+Everything here comes from the Fall 2026 redesign of the course, which the First Year Program faculty team carried out together. In that version, each week is either a career-readiness skill or an industry sector, and students tie the two together with weekly concept maps. I meet weekly with that team and contributed to the materials collected here.
 
-**Author:** Hazem Younis, The University of Texas at Dallas
+**Maintained by:** Hazem Younis, The University of Texas at Dallas  
+**Developed with:** the ECS 1100 faculty team, First Year Program, Erik Jonsson School of Engineering and Computer Science  
 **Website:** https://hazem-af-younis.github.io/course-development/
 
 ## Contents
 
-### 01 · Career readiness (Weeks 1–4)
+### 01 · Career readiness
 
 | File | What it is |
 |---|---|
 | `Week01_Welcome_ConceptMaps_Engagement.pdf` | First session. Introduces concept maps, the Connections video assignments and the engagement requirement. |
 | `Week02_Understanding_and_Communicating_Yourself.pdf` | Self-assessment and personal branding. Students set up their professional accounts in class. |
-| `HW2_Understanding_Yourself_Template.docx` | Student template for the Week 2 homework. |
+| `HW2_Understanding_Yourself_Template.docx` | Student template for the homework that follows the self-assessment session. |
 | `Week03_Resume_Review_ATS_AI_as_a_Student.pdf` | Resume peer review, how applicant tracking systems read resumes, career fair prep, an AI error hunt, and a personal AI-use protocol. |
 | `Video_Feedback_Watch_Worksheet.pdf` | Notes sheet for watching and giving feedback on peers' recorded interview answers. |
 | `Week04_AI_Ethics.pdf` | AI ethics: how AI works, how it is used, and how to use it well, framed with engineering codes of ethics. |
 
-### 02 · Estimation and Excel (Weeks 8–9)
+### 02 · Estimation and Excel
 
 | File | What it is |
 |---|---|
-| `Estimation_and_Unit_Reasoning_Template.xlsx` | Workbook that walks through estimating, unit conversion, sensitivity analysis and Goal Seek using a room-painting budget problem. |
+| `Estimation_and_Unit_Reasoning_Template.xlsx` | Built by a colleague on the course team. Workbook that walks through estimating, unit conversion, sensitivity analysis and Goal Seek using a room-painting budget problem. |
 | `Estimation_Problem_InClass_Template.docx` | In-class template for structuring a Fermi-style estimate: givens, assumptions, solution outline and confidence. |
 | `Learn_Teach_an_Excel_Function_Example.xlsx` | Worked example for the "learn one Excel function, teach it to a partner" activity (shown with TRIM). |
 
-### 03 · Industry sectors (Weeks 7, 10, 12)
+### 03 · Industry sectors
 
 | File | What it is |
 |---|---|
@@ -37,14 +38,14 @@ Everything here comes from the Fall 2026 redesign of the course. In that version
 | `Sector5_Advanced_Manufacturing_Biomanufacturing_Supply_Chain.pdf` | Following a product from design intent to delivery, biomanufacturing under FDA GMP, supply-chain failures, ethics and worker safety, and a 100-posting job analysis. |
 | `Sector5_Speaker_Notes.pdf` | Speaker notes for the Sector 5 lecture video. |
 
-The Sector 2 and Sector 5 weeks also include an interactive **Job Explorer** of real postings, filterable by major and career stage. The Sector 5 explorer is linked from the website.
+The Sector 2 and Sector 5 weeks also include an interactive **Job Explorer** of real postings, filterable by major and career stage, which I built. The Sector 5 explorer is linked from the website.
 
 ### 04 · Engagement and teaming
 
 | File | What it is |
 |---|---|
-| `Engagement_Reflection_Template.docx` | Reflection template for the semester engagement requirement (events, orgs, career activities). |
-| `Week11_Teaming_RolePlay_Script.pdf` | "The Unaddressed Conflict," a short role-play that students act out and then diagnose, for the teaming week. |
+| `Engagement_Reflection_Template.docx` | Co-developed with the course team. Reflection template for the semester engagement requirement (events, orgs, career activities). |
+| `Week11_Teaming_RolePlay_Script.pdf` | Co-developed with the course team. "The Unaddressed Conflict," a short role-play that students act out and then diagnose, for the teaming week. |
 
 ## Notes
 
