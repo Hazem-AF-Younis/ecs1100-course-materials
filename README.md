@@ -25,17 +25,17 @@ Everything here comes from the Fall 2026 redesign of the course, which the First
 
 | File | What it is |
 |---|---|
-| `Estimation_and_Unit_Reasoning_Template.xlsx` | Built by a colleague on the course team. Workbook that walks through estimating, unit conversion, sensitivity analysis and Goal Seek using a room-painting budget problem. |
+| `Estimation_and_Unit_Reasoning_Template.xlsx` | Built by Dr. Matthew Whitwer, First Year Program. Workbook that walks through estimating, unit conversion, sensitivity analysis and Goal Seek using a room-painting budget problem. |
 | `Estimation_Problem_InClass_Template.docx` | In-class template for structuring a Fermi-style estimate: givens, assumptions, solution outline and confidence. |
-| `Learn_Teach_an_Excel_Function_Example.xlsx` | Worked example for the "learn one Excel function, teach it to a partner" activity (shown with TRIM). |
+| `Learn_Teach_an_Excel_Function_Example.xlsx` | Developed by the course team. Worked example for the "learn one Excel function, teach it to a partner" activity (shown with TRIM). |
 
 ### 03 · Industry sectors
 
 | File | What it is |
 |---|---|
-| `Sector2_Semiconductors_and_Microelectronics.pdf` | How a chip gets made, which majors work at each stage, North Texas employers, and how students can build skills now. |
+| `Sector2_Semiconductors_and_Microelectronics.pdf` | Developed with the course team; I contributed. How a chip gets made, which majors work at each stage, North Texas employers, and how students can build skills now. |
 | `Sector4_Energy_Science_and_Technology.pdf` | The power system from generation to use, battery energy storage, the 2021 Texas winter storm as an ethics case, and real job postings by major. |
-| `Sector5_Advanced_Manufacturing_Biomanufacturing_Supply_Chain.pdf` | Following a product from design intent to delivery, biomanufacturing under FDA GMP, supply-chain failures, ethics and worker safety, and a 100-posting job analysis. |
+| `Sector5_Advanced_Manufacturing_Biomanufacturing_Supply_Chain.pdf` | Built by me. Following a product from design intent to delivery, biomanufacturing under FDA GMP, supply-chain failures, ethics and worker safety, and a 100-posting job analysis. |
 | `Sector5_Speaker_Notes.pdf` | Speaker notes for the Sector 5 lecture video. |
 
 The Sector 2 and Sector 5 weeks also include an interactive **Job Explorer** of real postings, filterable by major and career stage, which I built. The Sector 5 explorer is linked from the website.
