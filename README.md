@@ -52,7 +52,3 @@ The Sector 2 and Sector 5 weeks also include an interactive **Job Explorer** of 
 - Links to UT Dallas Canvas, surveys and internal forms have been removed, along with their QR codes. Staff names in course-logistics slides have been replaced with role titles.
 - The job postings cited in the sector decks were captured on the dates shown on each slide and may no longer be open.
 - Sources are cited on each slide.
-
-## License
-
-These materials are shared for teaching and reference under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You are welcome to adapt them for non-commercial teaching with attribution.
